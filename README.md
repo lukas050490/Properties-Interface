@@ -96,15 +96,25 @@ elitehome/
 │   │   ├── services/      # Configuração Axios
 │   │   └── assets/        # Imagens e ícones
 📷 Imagens do Projeto
-🏠 Página Home
+🏠 Páginas Home
 
-🏡 Detalhes do Imóvel
+<img width="400" height="400" src=""/>
+<img width="400" height="400" src=""/>
+<img width="400" height="400" src=""/>
 
-📅 Formulário de Agendamento
+🏡 Imóveis
 
-🔑 Login do Administrador
+<img width="400" height="400" src=""/>
+
+
+📅 Detalhes
+
+<img width="400" height="400" src=""/>
 
 📊 Dashboard
+
+<img width="400" height="400" src=""/>
+<img width="400" height="400" src=""/>
 
 📌 Autor
 
