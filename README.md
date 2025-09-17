@@ -98,8 +98,8 @@ elitehome/
 📷 Imagens do Projeto
 🏠 Páginas Home
 
-<img width="400" height="400" src="https://githubub.com/lukas050490/Properties-Interface/93cbe5845b030ff7d9c931994540fd17cbbb9bc0/public/readme-home-1.jpeg?raw=true"/>
-<img width="400" height="400" src="https://github.com/lukas050490/Caixa-Restaurante/blob/main/src/assets/image-caixa-restaurante.jpeg?raw=true"/>
+<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-home-1.jpeg?raw=true"/>
+<img width="400" height="400" src=""/>
 <img width="400" height="400" src=""/>
 
 🏡 Imóveis
