@@ -120,5 +120,5 @@ elitehome/
 
 👨‍💻 Desenvolvido por Lucas Silva
 📧 [lucas_alexandre05@hotmail.com]
-🔗 LinkedIn-
+🔗 LinkedIn-www.linkedin.com/in/lucas-alexandre-silva05
  | Portfólio-lucasalexandre.com
