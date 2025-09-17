@@ -100,19 +100,26 @@ elitehome/
 ## 📷 Imagens do Projeto
 
 ### 🏠 Páginas Home
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-1.jpeg"/>
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-2.jpeg"/>
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-3.jpeg"/>
+
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-1.jpeg">
+
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-2.jpeg">
+
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-3.jpeg">
 
 ### 🏡 Imóveis
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-properties.jpeg"/>
+
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-properties.jpeg">
 
 ### 📅 Detalhes
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-details.jpeg"/>
+
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-details.jpeg">
 
 ### 📊 Dashboard
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-create-admin.jpeg"/>
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-visits-admin.jpeg"/>
+
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-create-admin.jpeg">
+
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-visits-admin.jpeg">
 
 
 📌 Autor
