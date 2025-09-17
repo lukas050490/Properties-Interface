@@ -10,7 +10,7 @@ function PropertyDetails() {
   const [loading, setLoading] = useState(false);
   const [showVisitForm, setShowVisitForm] = useState(false);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
-  // Mock images - in a real app, these would come from your backend
+  
   const [propertyImages, setPropertyImages] = useState([]);
 
   useEffect(() => {

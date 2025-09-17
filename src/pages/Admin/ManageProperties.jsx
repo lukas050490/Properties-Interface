@@ -72,12 +72,12 @@ function ManageProperties() {
         },
       };
 
-      // adiciona todos os campos do form
+      
       Object.entries(formData).forEach(([key, value]) => {
         formToSend.append(key, value);
       });
 
-      // imagem principal
+      
       if (mainImage) {
         formToSend.append("main_image", mainImage);
       }
@@ -92,7 +92,7 @@ function ManageProperties() {
         propertyId = res.data.id;
       }
 
-      // agora envia as imagens da galeria
+      
       if (gallery.length > 0 && propertyId) {
         const galleryData = new FormData();
         gallery.forEach((file) => {
