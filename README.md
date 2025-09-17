@@ -105,7 +105,7 @@ elitehome/
 
 <img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-2.jpeg">
 
-<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-3.jpeg">
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home3.jpeg">
 
 ### 🏡 Imóveis
 
