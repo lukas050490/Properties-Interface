@@ -109,7 +109,7 @@ elitehome/
 
 📅 Detalhes
 
-<img width="400" height="400" src=""/>
+<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-details.jpeg?raw=true"/>
 
 📊 Dashboard
 
