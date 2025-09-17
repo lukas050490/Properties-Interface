@@ -96,25 +96,24 @@ elitehome/
 │   │   ├── services/      # Configuração Axios
 │   │   └── assets/        # Imagens e ícones
 📷 Imagens do Projeto
-🏠 Páginas Home
 
-<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-home-1.jpeg?raw=true"/>
-<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-home-2.jpeg?raw=true"/>
-<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-home3.jpeg?raw=true"/>
+## 📷 Imagens do Projeto
 
-🏡 Imóveis
+### 🏠 Páginas Home
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-1.jpeg"/>
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-2.jpeg"/>
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-home-3.jpeg"/>
 
-<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-properties.jpeg?raw=true"/>
+### 🏡 Imóveis
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-properties.jpeg"/>
 
+### 📅 Detalhes
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-details.jpeg"/>
 
-📅 Detalhes
+### 📊 Dashboard
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-create-admin.jpeg"/>
+<img width="400" height="400" src="https://raw.githubusercontent.com/lukas050490/Properties-Interface/main/public/readme-visits-admin.jpeg"/>
 
-<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-details.jpeg?raw=true"/>
-
-📊 Dashboard
-
-<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-create-admin.jpeg?raw=true"/>
-<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-visits-admin.jpeg?raw=true"/>
 
 📌 Autor
 
