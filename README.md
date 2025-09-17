@@ -114,11 +114,11 @@ elitehome/
 📊 Dashboard
 
 <img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-create-admin.jpeg?raw=true"/>
-<img width="400" height="400" src=""/>
+<img width="400" height="400" src="https://github.com/lukas050490/Properties-Interface/blob/main/public/readme-visits-admin.jpeg?raw=true"/>
 
 📌 Autor
 
 👨‍💻 Desenvolvido por Lucas Silva
 📧 [lucas_alexandre05@hotmail.com]
 🔗 LinkedIn-
- | Portfólio-
+ | Portfólio-lucasalexandre.com
